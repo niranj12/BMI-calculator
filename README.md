@@ -1,4 +1,4 @@
  BMI Calculator
 
- Basic javascript using HTML,CSS,Javascript
+ Basic project using HTML,CSS,Javascript
  
